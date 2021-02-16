@@ -1,0 +1,19 @@
+! annoying stuff
+instructure.com###announcementWrapper
+
+! asking for money boxes
+pypi.org##.notification-bar--fundraiser.notification-bar
+en.wikipedia.org##.cn-fundraising
+en.wikipedia.org##.frb-country-US.frb-rml-enabled.frb
+www.android-x86.org##.brid-holder
+www.android-x86.org##.brid-over.brid-visible-controls.brid-large.brid-started.brid-playing.brid-default-skin.brid
+www.conserve-energy-future.com###cbox
+
+! creepy ass images
+||i.ytimg.com/vi/rDkML-Af-7g/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDUV6umVK6gURjjkzkxUDUTac4Eeg$image
+
+! fix phabricator fonts
+*##body.phui-theme-blindigo:style(font-family: lato,sans-serif !important)
+*##body.phui-theme-blender:style(font-family: lato,sans-serif !important)
+
+
